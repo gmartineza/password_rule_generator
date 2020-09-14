@@ -25,3 +25,4 @@ for letras in enumerate(abecedario):
 	index=letras[0]
 	encriptor()
 	print(abecedario[index], ":", encriptado_final[index])
+print(encriptado_final)
